@@ -26,15 +26,13 @@ Here are some ideas to get you started:
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 ### My Stack:
-| | |
-|-|-|
 | Preferred | [![Typescript][typescript-shield]][typescript-url] [![React.js][react-shield]][react-url] [![Node.js][node-shield]][node-url] [![Sass][sass-shield]][sass-url] |
+|:-|:-|
 | Comfortable | [![Javascript][javascript-shield]][javascript-url] [![HTML][html-shield]][html-url] [![CSS][css-shield]][css-url] |
 | Competent | [![Java][java-shield]][java-url] [![Python][python-shield]][python-url] |
 ### My Tools:
-| | |
-|-|-|
 | Preferred | [![Webpack][webpack-shield]][webpack-url] |
+|:-|:-|
 | Comfortable | [![AWS][aws-shield]][aws-url] [![Git][git-shield]][git-url] [![Docker][docker-shield]][docker-url] |
 | Competent | [![Kubernetes][kubernetes-shield]][kubernetes-url] |
 
